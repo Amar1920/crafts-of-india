@@ -48,20 +48,20 @@ label{
     display: inline-block;
     width: 24.5%;
     text-align: center;
-    color: #fff;
+    color: #000;
     font-size: 13px;
     padding: 7px 0;
     letter-spacing: 1px;
     border-right: 1px solid #464444;
 }
 .header ul li a {
-     color: #fff;
+     color: #000;
     text-decoration: none;
 }
 .header ul li i {
     margin-right: 12px;
     top: 2px;
-    color: #2fdab8;
+    color: #fff;
 }
 .header-right {
     text-align: right;
@@ -290,9 +290,6 @@ i.fa.fa-shopping-bag.top_logo_agile_bag {
     line-height: 1.8em;
 }
 /* Icons */
-.footer-bottom a {
-
-}
 
 /* pop-up text */
 .footer-bottom a span {
@@ -596,7 +593,6 @@ a.simpleCart_empty {
     color: #2fdab8;
 }
 .carousel-caption p {
-    letter-spacing: 12px;
     font-size: 1.2em;
     font-weight: 600;
     color: #ffb900;
@@ -1127,7 +1123,7 @@ button.close.top_wthree_agile {
     color: #000;
 }
 .bb-middle-agileits-w3layouts.forth.grid {
-    margin-top: 0.95em;
+	margin-top: 0.95em;
 }
 
 /*-- schedule-bottom --*/
@@ -3759,7 +3755,6 @@ p.w3ls_para {
 		letter-spacing: 1px;
 	}
 	.carousel-caption p {
-		letter-spacing: 11px;
 		font-size: 1.1em;
 		margin-top: 1em;
 	}
@@ -4160,7 +4155,6 @@ p.w3ls_para {
 		letter-spacing: 9px;
 	}
 	.carousel-caption p {
-		letter-spacing: 10px;
 		font-size: 1em;
 		margin-top: 1em;
 	}
@@ -5553,3 +5547,4 @@ p.w3ls_para {
     }
 }
 /*-- //responsive media queries --*/
+
